@@ -1,0 +1,5 @@
+prompt 1 :là 1 kỹ sư phần mềm với bối cảnh Nền tảng thương mại điện tử TechBugs đang bị thất thoát hàng trăm triệu đồng. Hệ thống xác thực mã giảm giá VIP đang bị khách hàng "qua mặt". 
+Đội Sale phát hiện ra rằng, ngay cả khi khách hàng nhập mã là chuỗi rỗng "" hoặc số 0, hệ thống vẫn nhận diện đó là hợp lệ do lỗi so sánh dữ liệu.
+ Thêm vào đó, đoạn code kiểm tra điều kiện giảm giá do lập trình viên cũ để lại dài tới 30 dòng với hàng tá lệnh if-else lồng chéo vào nhau khiến server xử lý rất chậm. 
+ hãy cho tôi kiến thức và cách thay thế được if else 
+prompt 2 : Với bối cảnh và đoạn code như trên hãy cho tôi biết sự khác nhau giữa == và === ưu nhược điểm và mình nên dùng cái nào hơn 
